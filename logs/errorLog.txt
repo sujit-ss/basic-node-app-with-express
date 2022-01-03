@@ -1,0 +1,19 @@
+20211229	14:39:52	062b1a06-a88e-41f7-a42d-c3ab7fdc0fe7	Error : ENOENT: no such file or directory, stat '/Users/softsuave/Documents/Projects/node/expressWebServerDemo/views/abou.html'
+20211229	15:57:56	54a719ed-bfe5-450f-aa60-f46b61c89024	ForbiddenError : Forbidden
+20211229	15:58:39	23c256a9-a579-41f6-992d-ad7dfdfac2a4	ForbiddenError : Forbidden
+20211229	16:03:56	d4b077ef-8772-40c6-8784-6fb1869f7596	ForbiddenError : Forbidden
+20211229	16:04:19	4ee2cef3-6595-466d-a213-8c820ba69f8a	ForbiddenError : Forbidden
+20211229	16:14:52	d31b142f-979f-4b68-a6f4-2dddb3e490a9	Error : ENOENT: no such file or directory, stat '/Users/softsuave/Documents/Projects/node/expressWebServerDemo/view/subdir/new-page.html'
+20211229	16:14:56	9ba5986c-ebd6-4e51-b2ab-d9c2c399d5c5	Error : ENOENT: no such file or directory, stat '/Users/softsuave/Documents/Projects/node/expressWebServerDemo/view/subdir/new-page.html'
+20211229	17:33:02	26582b78-0b1c-4dff-8ff0-c4c6842af10f	SyntaxError : Unexpected token } in JSON at position 31
+20211229	17:40:28	af262372-42e3-4002-89e4-0e94ec931375	SyntaxError : Unexpected token o in JSON at position 1
+20211229	17:41:08	1df4f4b6-95c5-4190-aea9-ca27396fd4e3	SyntaxError : Unexpected token o in JSON at position 1
+20211229	19:25:17	e12849a8-0933-40ed-835f-9e7a1433bb4c	SyntaxError : Unexpected token } in JSON at position 56
+20211229	19:27:21	8c37afb0-3768-4486-979f-1858b101e38b	Error : Cannot set headers after they are sent to the client
+20211229	19:28:39	98a10594-75e3-46ae-ac5a-82c0f736e74f	Error : Cannot set headers after they are sent to the client
+20211229	19:37:53	c65ec699-5e9a-4ba3-a15a-db4a5c023a8a	SyntaxError : Unexpected end of JSON input
+20211229	19:38:00	05ea0c8c-4a88-4681-afde-64b49fcbea00	SyntaxError : Unexpected end of JSON input
+20211231	14:20:07	9ff4eb1f-4ab7-4aa2-a696-398ba8d45ec6	ReferenceError : accessToken is not defined
+20211231	14:20:29	37d18af3-e0f1-41ba-8ae0-73b342ba5e9c	ReferenceError : accessToken is not defined
+20211231	14:42:23	0d350e06-f4f2-465f-99c9-3fea8436f5ad	TypeError : Cannot read property 'token' of undefined
+20211231	14:43:24	bae13fdf-9546-42a4-8691-f766bf342741	TypeError : Cannot read property 'token' of undefined

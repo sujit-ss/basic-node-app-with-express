@@ -1,0 +1,20 @@
+[
+  {
+    "accountNo": 1,
+    "accountHolderName": "Sujit kumar",
+    "gender": "male",
+    "balance": 30000
+  },
+  {
+    "accountNo": 2,
+    "accountHolderName": "Vipin kumar",
+    "gender": "male",
+    "balance": 75000
+  },
+  {
+    "accountNo": 3,
+    "accountHolderName": "Venkateshwar Rao",
+    "gender": "male",
+    "balance": 53000
+  }
+]

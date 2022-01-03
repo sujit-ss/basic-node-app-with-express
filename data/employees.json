@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Sujit kumar",
+    "gender": "male"
+  },
+  {
+    "id": 2,
+    "name": "Vipin Dodke",
+    "gender": "male"
+  },
+  {
+    "id": 3,
+    "name": "Venkatesh",
+    "gender": "male"
+  }
+]

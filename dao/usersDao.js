@@ -15,6 +15,8 @@ const createNewUser = async (user) => {
   });
 };
 
+
+
 const isUserExists = (userName) => {
   return new Promise((resolve, reject) => {
     connectionPool.query(

@@ -34,6 +34,8 @@ const isUserExists = (userName) => {
   });
 };
 
+
+
 module.exports = { createNewUser, isUserExists };
 
 /* const fsPromises = require("fs").promises;
